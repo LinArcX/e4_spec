@@ -18,7 +18,8 @@ Leonard Shelby
 - You want to plan for your next project? It takes 12 days? No problem. Just reserve some hours of each day(Sequential or non-sequential) for 12 days.
 - In the beginning of each day(or a night before), you define your expectations(Daily schedule)
   - expectations can have **Priorities**.
-- At the end of day, you should should write which experiences did you get from that day.(outcomes)
+- Before the end of day(or throughout each expectation), you should should write which experiences did you get from that expectation.(outcomes)
+  - These are become your knowledge center. You can write them as single notes, as diagrams. You can use techniqutes like MindMapping or Zettelkasten to store your experiences.
   - Experiences are treasures that you can use in your future days.
 - With this approach, you are forced to re-organize your mind every day!
 
