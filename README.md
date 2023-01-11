@@ -58,4 +58,13 @@ in any kind of software form that you like. (A library, an android app, a deskto
 
 ## Contribution
 - If you have any idea to improve this approach, please let me know :)
-- Also you can share your recipes with other people. Just create a PR for each recipe.
+
+## Challanges
+Q: How to integrate Zettelkasten approach with this model?
+A: Zettelkasten is about gathering knowledge in an efficient way. So it's related to your "Expriences".
+
+Q: How to integrate SpacedRepetion with this model?
+A: You can SpacedRepetition technique as one of your expectations in your daily routine.
+
+Q: How to integrate mind-mapping approach with this model?
+A: MindMapping is all about understanding a subject better. So you can use it as a tool to enrich your experiences.
