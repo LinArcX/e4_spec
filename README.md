@@ -35,15 +35,6 @@ Leonard Shelby
 - So you should have **Buffers** in your timeboxes to deal with **Accidents**.
 - Assign a portion of your day to buffers.(something between 5% and 20% of day is reasonable. It's up to you!)
 
-
-## How use this approach?
-
-The simplest way is to write your own timeboxes on a paper and start following them :)
-
-But the better way is to transform this approach to a software. So if you're a programmer, you're free to implement this specification
-in any kind of software form that you like. (A library, an android app, a desktop app, etc..)
-
-
 ## Keywords
 - Expectations
 - Experiences
@@ -56,15 +47,25 @@ in any kind of software form that you like. (A library, an android app, a deskto
 - Accidents
 - Buffers
 
-## Contribution
-- If you have any idea to improve this approach, please let me know :)
+## Implementations?
+Maybe the simplest way is to write your own timeboxes on a paper and start following them :)
 
-## Challanges
+But the better way is to transform this approach to a software. So if you're a programmer, you're free to implement this specification
+in any kind of software form that you like. (A command line app, an android app or a desktop app)
+
+
+## Challenges
 Q: How to integrate Zettelkasten approach with this model?
-A: Zettelkasten is about gathering knowledge in an efficient way. So it's related to your "Expriences".
+
+A: Zettelkasten is about gathering knowledge in an efficient way. So it's related to your "Experiences".
 
 Q: How to integrate SpacedRepetion with this model?
+
 A: You can SpacedRepetition technique as one of your expectations in your daily routine.
 
 Q: How to integrate mind-mapping approach with this model?
+
 A: MindMapping is all about understanding a subject better. So you can use it as a tool to enrich your experiences.
+
+## Contribution
+- If you have any idea to improve this approach, please let me know :)
