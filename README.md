@@ -51,7 +51,13 @@ Leonard Shelby
 Maybe the simplest way is to write your own timeboxes on a paper and start following them :)
 
 But the better way is to transform this approach to a software. So if you're a programmer, you're free to implement this specification
-in any kind of software form that you like. (A command line app, an android app or a desktop app)
+in any kind of software form that you like. (A console app, an android app or a desktop app)
+
+### Console app
+- ex2w: a script to create/manage/search expectations/experiences and wishes.
+- zk: a script to manage zettelkasten stuff.
+- spr: a script to work with SpacedRepetition.
+- mm: a script to implement MindMapping technique.
 
 
 ## Challenges
