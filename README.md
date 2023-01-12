@@ -1,6 +1,12 @@
-# ex2w
+# ex3
 
-A personal approach to controlling my life.
+- Expectations: your daily tasks.
+- Experiences: your daily outcomes.
+- Expansions: your future wishes that someday can be your daily tasks.
+
+A personal approach to managing time.
+	- If you can manage time, you can manage your thoughts.
+		- By managing your thoughts, you can manage your life in a better way.
 
 Tip: This is the improved version of [memento](https://github.com/LinArcX/memento).
 
@@ -18,6 +24,9 @@ Leonard Shelby
 - You want to plan for your next project? It takes 12 days? No problem. Just reserve some hours of each day(Sequential or non-sequential) for 12 days.
 - In the beginning of each day(or a night before), you define your expectations(Daily schedule)
   - expectations can have **Priorities**.
+  - expectations can have reminders.
+  - expectations can have estimated duration or fixed start-end time.
+  - by forcing yourself to specify your expectations daily, you always have this chance to review yourself and your progress, so you can improve your methods.
 - Before the end of day(or throughout each expectation), you should should write which experiences did you get from that expectation.(outcomes)
   - These are become your knowledge center. You can write them as single notes, as diagrams. You can use techniqutes like MindMapping or Zettelkasten to store your experiences.
   - Experiences are treasures that you can use in your future days.
@@ -26,8 +35,9 @@ Leonard Shelby
 ## Results
 - Past are just timeboxes that are less than current timebox.
   - **Experiences** are the outcome of timeboxes in the past.(that you can use for your future timeboxes)
-- **Plans** are your filled future timeboxes.
-- **Wishes** are just your pure ideas that you wish to do in future. They can be transform to **Plans** if you just assign days to them.
+- You are always planning. Either for your current timebox(today) or for future timeboxes.
+- **Expansions** are just your pure ideas that you wish to do in future. They can be transform to **Expectations** if you just assign them to timeboxes.
+	- You can prioritize your Expansions.
 
 ## Caveats
 - But time is not always manageable. Right?
@@ -39,7 +49,7 @@ Leonard Shelby
 ## Keywords
 - Expectations
 - Experiences
-- Wishes
+- Expansions
 - TimeBox
 - Day
 - Outcome
@@ -55,7 +65,7 @@ But the better way is to transform this approach to a software. So if you're a p
 in any kind of software form that you like. (A console app, an android app or a desktop app)
 
 ### Console app
-- ex2w: a script to create/manage/search expectations/experiences and wishes.
+- ex3: a script to create/manage/search expectations/experiences and wishes.
 - zk: a script to manage zettelkasten stuff.
 - spr: a script to work with SpacedRepetition.
 - mm: a script to implement MindMapping technique.
