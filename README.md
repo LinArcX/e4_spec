@@ -27,9 +27,11 @@ Leonard Shelby
   - expectations can have reminders.
   - expectations can have estimated duration or fixed start-end time.
   - by forcing yourself to specify your expectations daily, you always have this chance to review yourself and your progress, so you can improve your methods.
-- Before the end of day(or throughout each expectation), you should should write which experiences did you get from that expectation.(outcomes)
+- Before the end of day(or after ending each expectation), you should write what did you get from each expectation (outputs or results)
   - These are become your knowledge center. You can write them as single notes, as diagrams. You can use techniqutes like MindMapping or Zettelkasten to store your experiences.
-  - Experiences are treasures that you can use in your future days.
+  - Experiences are treasures that you can use in your future timeboxes.
+  - Eech experience can have some inputs.(You will use them to acheive the outputs)
+  - You can rate your expectations and explain why you are/aren't satisfy for the result.(It'll help you for future timeboxes planning)
 - With this approach, you are forced to re-organize your mind every day!
 
 ## Results
